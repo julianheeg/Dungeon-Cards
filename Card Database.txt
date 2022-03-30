@@ -1,0 +1,2 @@
+0;0;ZERO;TEST;1;1;1;3
+1;0;Test Card;This is a test card.;2;2;2;3
